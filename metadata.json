@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Batch Generator",
+  "description": "Generate multiple high-quality images from a list of prompts using Google's Imagen model. Enter your prompts, one per line, and watch as the images are generated and automatically downloaded.",
+  "requestFramePermissions": []
+}
